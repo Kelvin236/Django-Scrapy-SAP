@@ -1,0 +1,72 @@
+h4 {
+    text-align: left;
+    font-size: 15px;
+}
+
+
+li {
+    /* Removes dots from list 
+    display: inline-block;*/
+
+    text-align: left;
+    list-style: none;
+}
+
+
+.jumbotron {
+    max-height: 5px;
+    background-color: #C31425;
+}
+
+
+#logo {
+    float: left;
+    width: auto;
+    height: 60px;
+    padding-bottom: 20px;
+    position: absolute;
+}
+
+
+.design {
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 30px;
+    color: white;
+}
+
+
+#section1 {
+    height: 500px;
+    width: 1000px;
+    float: left;
+}
+
+
+#pic1, #pic2 {
+    display: none;
+    position: absolute;
+}
+
+
+#section2 {
+    height: 500px;
+    width: 1000px;
+    float: right;
+}
+
+
+.location {
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+
+.space {
+    font-family: "Montserrat";
+    height: 30px;
+}
+/*#fade {
+    opacity: 0;
+    transition: opacity 1s linear;
+}*/
